@@ -1,6 +1,6 @@
 # sql_challenge
 
-Data Engineering: I used QDBD to design, link, and create my table. I then imported them into SQL. In SQL I made adjustments to the code from QDBD before importing my cvs files to create the tables. 
+Data Engineering: I used QDBD to design, link, and create my tables. I then imported them into SQL. In SQL I made adjustments to the code from QDBD before importing my cvs files to create the tables. 
 
 Data Analysis: Once the cvs files were imported, I joined various tables to analyse the data. 
 

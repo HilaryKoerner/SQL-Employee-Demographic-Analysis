@@ -16,7 +16,7 @@ I merged tables in jupyeter notebook and created two charts. The first chart dis
 
 ![SQLJN](https://user-images.githubusercontent.com/74504885/125714830-e32fae2a-5c1f-49c7-8a1a-60fdbd78d8b7.PNG)
 
-The second chart displats the average salary by employee title. 
+The second chart displays the average salary by employee title. 
 
 ![SQLJN2](https://user-images.githubusercontent.com/74504885/125714877-ff64e911-4bf8-4c53-8c54-74fe09837272.PNG)
 

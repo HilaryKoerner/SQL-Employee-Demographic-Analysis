@@ -6,7 +6,7 @@ Data Engineering: I used QDBD (Quick Database Design) to design, link, and creat
 
 I then imported the six tables into SQL. In SQL I made adjustments and cleaned the code from QDBD before importing my cvs files to create the tables. 
 
-Data Analysis: Once the cvs files were imported, I joined various tables to analyse the data. 
+Data Analysis: Once the cvs files were imported, I joined various tables to analyze the data. 
 
 To create visual analyses, I used sqlalchemy to read the tables into jupyter notebook. 
 
